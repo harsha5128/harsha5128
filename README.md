@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harsha5128
 - 👀 I’m interested in Machine Learning & Data Science
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me harshavardhan5128@gmail.com
 
 <!---
